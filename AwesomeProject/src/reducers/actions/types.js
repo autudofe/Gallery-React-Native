@@ -1,0 +1,1 @@
+export const ADD_ALL_PHOTOS = "ADD_ALL_POSTS/PHOTO_REDUCER";
